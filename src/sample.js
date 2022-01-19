@@ -3,7 +3,7 @@ const Sample = () => {
     return (
       <>
      <h1>TEST</h1>
-     <h1>1</h1>
+     <h1>s</h1>
      </>
     );
   }
